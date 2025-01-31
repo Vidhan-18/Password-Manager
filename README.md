@@ -37,13 +37,6 @@ A simple password manager built with Python, Tkinter, and Cryptography. This app
     pip install cryptography
     ```
 
-4. **Create the `key.key` file**:
-   - Run the script once to generate the encryption key file:
-     ```bash
-     python password_manager.py
-     ```
-   - This will generate the `key.key` file needed for encryption/decryption.
-   - Keep the `key.key` file safe and **do not commit it to version control** (it contains your encryption key).
 
 ## Usage
 
